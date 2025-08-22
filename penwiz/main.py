@@ -16,7 +16,7 @@ import sys
 import os
 import pyfiglet
 
-
+### Program
 def banner():
     ascii_banner = pyfiglet.figlet_format("PenWiz")
     print(ascii_banner)
