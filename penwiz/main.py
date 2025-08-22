@@ -41,7 +41,7 @@ def main():
     parser.add_argument(
         "-v", "--version",
         action="version",
-        version="PenWiz 1.0"
+        version="PenWiz V0.01"
     )
     parser.add_argument(
         "--install",
